@@ -31,7 +31,7 @@ const About = () => {
 
 
                             <p>
-                                ELEC & FROID SERVICES est une
+                                ELECTRO & FROID SOLUTION est une
                                 entreprise spécialisée dans les
                                 travaux d'électricité et les systèmes
                                 de froid et de climatisation.
@@ -55,7 +55,7 @@ const About = () => {
                                     <i className="bi bi-people"></i>
 
                                     <div>
-                                        <strong>5+</strong>
+                                        <strong>4+</strong>
                                         <span>
                                             Années d'expérience
                                         </span>
@@ -69,7 +69,7 @@ const About = () => {
                                     <i className="bi bi-check-circle"></i>
 
                                     <div>
-                                        <strong>200+</strong>
+                                        <strong>120+</strong>
                                         <span>
                                             Projets réalisés
                                         </span>

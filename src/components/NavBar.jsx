@@ -13,7 +13,7 @@ export default function NavBar() {
 
                     {/* <!-- Logo --> */}
                     <a
-                        href="#"
+                        href="#accueil"
                         className="navbar-brand brand-logo"
                     >
 
@@ -23,8 +23,8 @@ export default function NavBar() {
                         </div>
 
                         <div className="brand-text">
-                            <strong>ELEC & FROID</strong>
-                            <span>SERVICES</span>
+                            <strong>ELECTRO & FROID</strong>
+                            <span>SOLUTION</span>
                         </div>
 
                     </a>

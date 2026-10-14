@@ -25,11 +25,11 @@ const Footer = () => {
 
                             <div>
                                 <strong>
-                                    ELEC & FROID
+                                    ELECTRO & FROID
                                 </strong>
 
                                 <span>
-                                    SERVICES
+                                    SOLUTION
                                 </span>
                             </div>
 
@@ -42,7 +42,7 @@ const Footer = () => {
                     <div className="col-lg-4 text-center">
 
                         <p className="copyright">
-                            © 2024 ELEC & FROID SERVICES.
+                            © 2026 ELECTRO & FROID SOLUTION .
                             Tous droits réservés.
                         </p>
 
@@ -63,7 +63,7 @@ const Footer = () => {
                             </a>
 
                             <a
-                                href="mailto:contact@electrofroid.tg"
+                                href="mailto:shiliotoka@outlook.fr"
                                 aria-label="Email"
                                 className="footer-social email"
                             >
